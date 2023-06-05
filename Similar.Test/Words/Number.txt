@@ -1,0 +1,110 @@
+﻿seventy eight	78
+seventy seven	77
+seventy three	73
+ninety eight	98
+ninety seven	97
+ninety three	93
+eighty eight	88
+eighty seven	87
+eighty three	83
+seventy nine	79
+seventy five	75
+seventy four	74
+thirty eight	38
+thirty seven	37
+thirty three	33
+twenty eight	28
+twenty seven	27
+twenty three	23
+ninety nine	99
+ninety five	95
+ninety four	94
+eighty nine	89
+eighty five	85
+eighty four	84
+seventy six	76
+seventy two	72
+seventy one	71
+sixty eight	68
+sixty seven	67
+sixty three	63
+fifty eight	58
+fifty seven	57
+fifty three	53
+forty eight	48
+forty seven	47
+forty three	43
+thirty nine	39
+thirty five	35
+thirty four	34
+twenty nine	29
+twenty five	25
+twenty four	24
+ninety six	96
+ninety two	92
+ninety one	91
+eighty six	86
+eighty two	82
+eighty one	81
+sixty nine	69
+sixty five	65
+sixty four	64
+fifty nine	59
+fifty five	55
+fifty four	54
+forty nine	49
+forty five	45
+forty four	44
+thirty six	36
+thirty two	32
+thirty one	31
+twenty six	26
+twenty two	22
+twenty one	21
+trillions	000000000000
+thousands	000
+sixty six	66
+sixty two	62
+sixty one	61
+fifty six	56
+fifty two	52
+fifty one	51
+forty six	46
+forty two	42
+forty one	41
+seventeen	17
+trillion	000000000000
+billions	000000000
+millions	000000
+thousand	000
+hundreds	00
+nineteen	19
+eighteen	18
+fourteen	14
+thirteen	13
+billion	000000000
+million	000000
+hundred	00
+seventy	70
+sixteen	16
+fifteen	15
+ninety	90
+eighty	80
+thirty	30
+twenty	20
+twelve	12
+eleven	11
+sixty	60
+fifty	50
+forty	40
+eight	8
+seven	7
+three	3
+nine	9
+five	5
+four	4
+zero	0
+ten	10
+six	6
+two	2
+one	1

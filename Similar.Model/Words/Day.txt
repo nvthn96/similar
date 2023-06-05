@@ -1,0 +1,62 @@
+﻿the twenty seventh	27
+the twenty second	22
+the twenty fourth	24
+the twenty eighth	28
+the twenty first	21
+the twenty third	23
+the twenty fifth	25
+the twenty sixth	26
+the twenty ninth	29
+the thirty first	31
+the seventeenth	17
+the thirteenth	13
+the fourteenth	14
+the eighteenth	18
+the nineteenth	19
+the fifteenth	15
+the sixteenth	16
+the twentieth	20
+the thirtieth	30
+the eleventh	11
+the seventh	7
+the twelfth	12
+the second	2
+the fourth	4
+the eighth	8
+the first	1
+the third	3
+the fifth	5
+the sixth	6
+the ninth	9
+the tenth	10
+10th	10
+11th	11
+12th	12
+13th	13
+14th	14
+15th	15
+16th	16
+17th	17
+18th	18
+19th	19
+20th	20
+21st	21
+22nd	22
+23rd	23
+24th	24
+25th	25
+26th	26
+27th	27
+28th	28
+29th	29
+30th	30
+31st	31
+1st	1
+2nd	2
+3rd	3
+4th	4
+5th	5
+6th	6
+7th	7
+8th	8
+9th	9
