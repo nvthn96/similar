@@ -1,2 +1,2 @@
 # similar
-So sánh nếu 2 câu tương tự nhau
+So sánh 2 câu và tìm số phần trăm giống nhau.
